@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+
+}
+header{
+    width: 100vw;
+    height: auto;
+    display: flex;
+    background-color: black;
+}
+nav{
+    width: 100vw;
+    height:auto;
+    background-color: brown;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+main{
+    width: 100vw;
+    height: auto;
+    background-color: white;
+}
+footer{
+    width: 100vw;
+    height:auto;
+    background-color: white;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    text-align: center;
+    
+}
+div{
+    width: 100%;
+    height:auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 40px 0;
+}
+figcaption{
+    text-align:center ;
+ 
+}
+figure{
+    text-align: center;
+}
+li{
+    text-align: justify;
+    width: 70%;
+}
+.a2{
+    
+    color: black;
+}
+.im2{
+    width: 30vw;
+}
+.p5{
+    color:black;
+    width: 80%;
+    text-align: centerx;
+}
+.im2{
+    width: 60%;
+}
+.d3{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.im1{
+    width: 15%;
+}
+img{
+    width: 20%;
+}
+.p1{
+    text-align: center;
+    font-size: 40px;
+  
+
+}
+
+.p2{
+    text-align: center;
+}
+.d2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.v1{
+    width: 90%;
+    border-radius:20px;
+    margin: 20px;
+}
+.v2{
+    width: 95%;
+    height: 60%;
+    border-radius: 20px;
+    margin: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding: 10px 30px;
+}
+a:hover{
+color: orange;
+border-radius: 20px;
+
+}
