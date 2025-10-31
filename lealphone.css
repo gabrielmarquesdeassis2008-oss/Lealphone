@@ -64,9 +64,7 @@ li{
     
     color: black;
 }
-.im2{
-    width: 30vw;
-}
+
 .p5{
     color:black;
     width: 80%;
@@ -112,6 +110,19 @@ img{
     height: 60%;
     border-radius: 20px;
     margin: 20px;
+}
+.f1{
+    display: flex;
+    position: relative;
+}
+.im4{
+    width: 100px;
+    height: 100px;
+    position:fixed;
+    float:left;
+    display: flex;
+    left:1160px;
+    
 }
 a{
     text-decoration: none;
